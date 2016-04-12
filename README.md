@@ -36,4 +36,6 @@ Java, NetBeans IDE 8.0
 
 ## License
 
-Pubic Domain
+Public Domain
+
+(for full license contents check: [http://unlicense.org/UNLICENSE] )
