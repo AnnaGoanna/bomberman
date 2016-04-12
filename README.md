@@ -38,4 +38,4 @@ Java, NetBeans IDE 8.0
 
 Public Domain
 
-(for full license contents check: [http://unlicense.org/UNLICENSE] )
+(for full license contents check: http://unlicense.org/UNLICENSE )
